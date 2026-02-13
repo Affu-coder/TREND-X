@@ -15,7 +15,7 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 //anticall on/off
    ANTI_CALL: process.env.ANTI_CALL || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY TREND-X TECH 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY MARISEL-MD TECH 🤍*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 // set true false for anti delete     
@@ -32,7 +32,7 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/j2h8dg.jpg",
+    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/ukr8w8.jpg",
 
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || "*",
@@ -58,7 +58,7 @@ OWNER_NAME: process.env.OWNER_NAME || "MARISEL DEV",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© POWERED MARISEL DEV*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/adymbp.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/ukr8w8.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Powered by *MARISEL-MD TECH*⚡",
 // add alive msg here 
